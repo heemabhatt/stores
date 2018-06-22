@@ -11,15 +11,15 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "Stores/Get",
+      "launchUrl": "values/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Store_BaseEntity": {
+    "Store.API": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "Stores/Get",
+      "launchUrl": "values/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
